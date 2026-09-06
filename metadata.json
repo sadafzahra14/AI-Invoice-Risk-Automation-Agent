@@ -1,0 +1,6 @@
+{
+  "name": "FinFlow AI",
+  "description": "AI-Powered Invoice Processing and Financial Risk Analysis platform with automated risk scoring and financial intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
